@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zalmander (Cody)
-- 👀 I’m currently a water resources geologist looking to switch into InfoSec
+- 👀 I’m currently a water resources geologist
 - ✨ I'm hoping to showcase some code here
 - 🌱 I am looking forward to growing in experience with each new piece of code
 
